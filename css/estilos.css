@@ -1,0 +1,115 @@
+/* Colors */
+/* Spacings */
+/* Font-family */
+/* Font-Sizes */
+/* Normalize */
+*::after,
+*::before,
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  font-size: 1em;
+}
+
+img {
+  width: 100%;
+}
+
+html {
+  height: 100%;
+  font-family: "Poppins", sans-serif;
+  font-size: 1em;
+}
+
+body {
+  position: relative;
+  padding-bottom: 50px;
+  min-height: 100vh;
+}
+
+.logo_escuela {
+  width: 100%;
+  height: auto;
+}
+
+.encabezado {
+  background-color: #05758b;
+  color: #ffffff;
+}
+
+.foto_home {
+  width: 100%;
+  height: auto;
+}
+
+.titulo__tabla {
+  background-color: #05758b;
+  color: #ffffff;
+}
+
+.titulo__parrafo {
+  color: #05758b;
+  font-weight: bold;
+}
+
+.piedepagina {
+  background-color: #05758b;
+  color: #ffffff;
+  text-align: center;
+  padding: 20px 0 10px 0;
+  margin-top: 10px;
+  position: absolute !important;
+  bottom: 0;
+  width: 100%; 
+  
+  
+}/*#sourceMappingURLestilos.css.map */
+
+
+/*.bodyformulario {
+
+  margin: 0;
+  padding: 0%;
+  box-sizing: border-box;
+  
+  }
+  
+  
+  
+  .primerAño {
+  margin: 800px;
+  margin-top: 50px;
+  width: 300px;
+  height: 400px;
+  background-color: rgb(167, 233, 80);
+  display: grid;
+  
+  }   
+  
+  .segundoAño {
+  margin: 800px;
+  margin-top: 50px;
+  width: 300px;
+  height: 400px;
+  background-color: beige;
+  border: 5px;
+  border-color: black;
+  }  
+  
+  .tercerAño {
+  margin: 800px;
+  margin-top: 50px;
+  width: 300px;
+  height: 400px;
+  background-color: rgb(80, 90, 233);
+  
+  }
